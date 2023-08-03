@@ -21,3 +21,27 @@ console.log(cajon1)
 //Null
 
 var sinNada = null;
+
+//Strings 
+
+var bootcamp = "Henry"
+
+//Numeros
+
+var numeroEntero = 7;
+var numeroNegativo = -2;
+var numeroDecimal = 0.2;
+
+//Booleanos
+
+var estoyDivirtiendome = true;
+var estoyQuememato = false;
+
+//Undefined
+
+var cajon1;
+console.log(cajon1)
+
+//Null
+
+var sinNada = null;
