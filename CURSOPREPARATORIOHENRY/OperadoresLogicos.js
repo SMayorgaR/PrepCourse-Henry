@@ -38,3 +38,7 @@ operacionCompleja(3);
 operacionCompleja(6);
 operacionCompleja(11);
 operacionCompleja(2);
+
+let num = 5.5;
+
+console.log(num % 1 === 1)
